@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/emilhem
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://emil.hemdal.se
+  * I am emilhem (https://keybase.io/emilhem) on keybase.
+  * I have a public key ASDgrUZNHqcX9_x5oqtPt2rmPpdXJAGJeq4IZhtSZqgnLQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e0ad464d1ea717f7fc79a2ab4fb76ae63e97572401897aae08661b5266a8272d0a",
+            "host": "keybase.io",
+            "kid": "0120e0ad464d1ea717f7fc79a2ab4fb76ae63e97572401897aae08661b5266a8272d0a",
+            "uid": "58a3aa19d72aa45d769bd2f8527d4019",
+            "username": "emilhem"
+        },
+        "service": {
+            "hostname": "emil.hemdal.se",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491249840,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491249801,
+        "hash": "ac4e17ae877be30cf2bebfe86f3ed69591408ee961fb45403e443255d6314b185f1f8c3c62e48404969b6bc576ed7830bffd1c7f8a5324597edddde0e6e95062",
+        "seqno": 996708
+    },
+    "prev": "58e14dc01235c9e7959acaab44024278e60ca14abcbaf5331268f72c0b5d13f4",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4K1GTR6nF/f8eaKrT7dq5j6XVyQBiXquCGYbUmaoJy0Kp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTBhZDQ2NGQxZWE3MTdmN2ZjNzlhMmFiNGZiNzZhZTYzZTk3NTcyNDAxODk3YWFlMDg2NjFiNTI2NmE4MjcyZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTBhZDQ2NGQxZWE3MTdmN2ZjNzlhMmFiNGZiNzZhZTYzZTk3NTcyNDAxODk3YWFlMDg2NjFiNTI2NmE4MjcyZDBhIiwidWlkIjoiNThhM2FhMTlkNzJhYTQ1ZDc2OWJkMmY4NTI3ZDQwMTkiLCJ1c2VybmFtZSI6ImVtaWxoZW0ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImVtaWwuaGVtZGFsLnNlIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjAifSwiY3RpbWUiOjE0OTEyNDk4NDAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MTI0OTgwMSwiaGFzaCI6ImFjNGUxN2FlODc3YmUzMGNmMmJlYmZlODZmM2VkNjk1OTE0MDhlZTk2MWZiNDU0MDNlNDQzMjU1ZDYzMTRiMTg1ZjFmOGMzYzYyZTQ4NDA0OTY5YjZiYzU3NmVkNzgzMGJmZmQxYzdmOGE1MzI0NTk3ZWRkZGRlMGU2ZTk1MDYyIiwic2Vxbm8iOjk5NjcwOH0sInByZXYiOiI1OGUxNGRjMDEyMzVjOWU3OTU5YWNhYWI0NDAyNDI3OGU2MGNhMTRhYmNiYWY1MzMxMjY4ZjcyYzBiNWQxM2Y0Iiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQPHc/RiaeYh63N88yJuyHZ08RHDWB3CJgboWysdwjIZNPiyWK3yLqqUYGHME8NJAdvWdMhdyDItvGmPXAS0+pAOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDw4i0dvtl6D3o91mH8vv3C4g0Xng/7H9axjiLAGIR2FKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emilhem
+
+==================================================================
