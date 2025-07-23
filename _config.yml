@@ -27,6 +27,8 @@ url: "https://emil.hemdal.se" # the base hostname & protocol for your site, e.g.
 #twitter_username: jekyllrb
 github_username:  emilhem
 
+timezone: Europe/Stockholm
+
 # Build settings
 theme: minima
 plugins:
